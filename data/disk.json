@@ -1,0 +1,33 @@
+{
+  "type": "folder",
+  "name": "root",
+  "children": [
+    {
+      "type": "folder",
+      "name": "documents",
+      "children": [
+        {
+          "type": "file",
+          "name": "readme.txt",
+          "content": "This is a virtual file inside MiniOS."
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "name": "system",
+      "children": [
+        {
+          "type": "folder",
+          "name": "ud-test",
+          "children": []
+        }
+      ]
+    },
+    {
+      "type": "file",
+      "name": "test",
+      "content": ""
+    }
+  ]
+}

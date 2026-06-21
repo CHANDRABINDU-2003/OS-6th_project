@@ -1,0 +1,10 @@
+# MiniOS Simulator has NO third-party dependencies.
+# It uses only the Python standard library (tkinter ships with CPython).
+#
+# Requirements:
+#   - Python 3.8+
+#   - tkinter  (included with standard Python installers; on some Linux
+#     distros install separately, e.g. `sudo apt install python3-tk`)
+#
+# Run:        python main.py        (from the project root)
+# Run tests:  python -m unittest discover -s tests

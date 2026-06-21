@@ -1,0 +1,522 @@
+[20:48:25] [BOOT] Kernel initialized
+[20:48:25] [BOOT] System boot started
+[20:48:25] [BOOT] Initializing kernel...
+[20:48:26] [BOOT] Mounting virtual file system...
+[20:48:26] [BOOT] Loading CPU scheduler...
+[20:48:27] [BOOT] Allocating memory manager...
+[20:48:27] [BOOT] Starting system services...
+[20:48:28] [BOOT] Loading desktop environment...
+[20:48:28] [BOOT] Welcome to MiniOS!
+[20:48:48] [INFO] User 'admin' authenticated
+[20:48:48] [INFO] Desktop ready
+[20:48:56] [INFO] CPU Scheduler opened
+[20:48:56] [INFO] Process started: Scheduler (pid 100)
+[20:57:40] [BOOT] Kernel initialized
+[20:57:40] [BOOT] System boot started
+[20:57:41] [BOOT] Initializing kernel...
+[20:57:41] [BOOT] Mounting virtual file system...
+[20:57:42] [BOOT] Loading CPU scheduler...
+[20:57:42] [BOOT] Allocating memory manager...
+[20:57:43] [BOOT] Starting system services...
+[20:57:43] [BOOT] Loading desktop environment...
+[20:57:44] [BOOT] Welcome to MiniOS!
+[20:57:55] [INFO] User 'udita' authenticated
+[20:57:55] [INFO] Desktop ready
+[20:58:00] [INFO] Kernel Log opened
+[20:58:00] [INFO] Process started: Kernel Log (pid 100)
+[20:58:04] [INFO] Notepad opened
+[20:58:04] [INFO] Process started: Notepad (pid 101)
+[20:58:51] [BOOT] Kernel initialized
+[20:58:52] [BOOT] System boot started
+[20:58:52] [BOOT] Initializing kernel...
+[20:58:53] [BOOT] Mounting virtual file system...
+[20:58:53] [BOOT] Loading CPU scheduler...
+[20:58:53] [BOOT] Allocating memory manager...
+[20:58:54] [BOOT] Starting system services...
+[20:58:54] [BOOT] Loading desktop environment...
+[20:58:55] [BOOT] Welcome to MiniOS!
+[20:59:03] [INFO] User 'udita' authenticated
+[20:59:03] [INFO] Desktop ready
+[20:59:07] [INFO] IPC Simulator opened
+[20:59:07] [INFO] Process started: IPC (pid 100)
+[00:09:52] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:09:52] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:09:52] [BOOT] Kernel initialized
+[00:09:52] [INFO] PID 3 (CPU Scheduler): NEW -> RUNNING
+[00:09:52] [INFO] App started: CPU Scheduler (pid 3)
+[00:09:52] [INFO] PID 4 (Memory): NEW -> RUNNING
+[00:09:52] [INFO] App started: Memory (pid 4)
+[00:09:52] [INFO] PID 5 (P1): NEW -> READY
+[00:09:52] [INFO] Process created: P1 (pid 5)
+[00:09:52] [INFO] PID 5 (P1): READY -> RUNNING
+[00:09:52] [INFO] PID 5 (P1): RUNNING -> WAITING
+[00:09:52] [INFO] PID 5 (P1): WAITING -> READY
+[00:09:52] [INFO] PID 5 (P1): READY -> RUNNING
+[00:09:52] [INFO] PID 5 (P1): RUNNING -> TERMINATED
+[00:09:52] [INFO] Process terminated (pid 5); PCB removed
+[00:09:52] [WARN] Refused to terminate system process kernel
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 3 (Notepad): NEW -> RUNNING
+[00:10:34] [INFO] App started: Notepad (pid 3)
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 3 (P1): NEW -> READY
+[00:10:34] [INFO] Process created: P1 (pid 3)
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 3 (P1): NEW -> READY
+[00:10:34] [INFO] Process created: P1 (pid 3)
+[00:10:34] [INFO] PID 3 (P1): READY -> RUNNING
+[00:10:34] [INFO] PID 3 (P1): RUNNING -> WAITING
+[00:10:34] [INFO] PID 3 (P1): WAITING -> READY
+[00:10:34] [INFO] PID 3 (P1): READY -> RUNNING
+[00:10:34] [INFO] PID 3 (P1): RUNNING -> TERMINATED
+[00:10:34] [INFO] Process terminated (pid 3); PCB removed
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 3 (Big): NEW -> READY
+[00:10:34] [INFO] Process created: Big (pid 3)
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [INFO] PID 3 (P0): NEW -> READY
+[00:10:34] [INFO] Process created: P0 (pid 3)
+[00:10:34] [INFO] PID 4 (P1): NEW -> READY
+[00:10:34] [INFO] Process created: P1 (pid 4)
+[00:10:34] [INFO] PID 5 (P2): NEW -> READY
+[00:10:34] [INFO] Process created: P2 (pid 5)
+[00:10:34] [INFO] PID 6 (P3): NEW -> READY
+[00:10:34] [INFO] Process created: P3 (pid 6)
+[00:10:34] [INFO] PID 7 (P4): NEW -> READY
+[00:10:34] [INFO] Process created: P4 (pid 7)
+[00:10:34] [INFO] PID 8 (P5): NEW -> READY
+[00:10:34] [INFO] Process created: P5 (pid 8)
+[00:10:34] [INFO] PID 9 (P6): NEW -> READY
+[00:10:34] [INFO] Process created: P6 (pid 9)
+[00:10:34] [INFO] PID 10 (P7): NEW -> READY
+[00:10:34] [INFO] Process created: P7 (pid 10)
+[00:10:34] [INFO] PID 11 (P8): NEW -> READY
+[00:10:34] [INFO] Process created: P8 (pid 11)
+[00:10:34] [INFO] PID 12 (P9): NEW -> READY
+[00:10:34] [INFO] Process created: P9 (pid 12)
+[00:10:34] [INFO] PID 13 (P10): NEW -> READY
+[00:10:34] [INFO] Process created: P10 (pid 13)
+[00:10:34] [INFO] PID 14 (P11): NEW -> READY
+[00:10:34] [INFO] Process created: P11 (pid 14)
+[00:10:34] [INFO] PID 15 (P12): NEW -> READY
+[00:10:34] [INFO] Process created: P12 (pid 15)
+[00:10:34] [INFO] PID 16 (P13): NEW -> READY
+[00:10:34] [INFO] Process created: P13 (pid 16)
+[00:10:34] [INFO] PID 17 (P14): NEW -> READY
+[00:10:34] [INFO] Process created: P14 (pid 17)
+[00:10:34] [INFO] PID 18 (P15): NEW -> READY
+[00:10:34] [INFO] Process created: P15 (pid 18)
+[00:10:34] [INFO] PID 19 (P16): NEW -> READY
+[00:10:34] [INFO] Process created: P16 (pid 19)
+[00:10:34] [INFO] PID 20 (P17): NEW -> READY
+[00:10:34] [INFO] Process created: P17 (pid 20)
+[00:10:34] [INFO] PID 21 (P18): NEW -> READY
+[00:10:34] [INFO] Process created: P18 (pid 21)
+[00:10:34] [INFO] PID 22 (P19): NEW -> READY
+[00:10:34] [INFO] Process created: P19 (pid 22)
+[00:10:34] [INFO] PID 23 (App0): NEW -> RUNNING
+[00:10:34] [INFO] App started: App0 (pid 23)
+[00:10:34] [INFO] PID 24 (App1): NEW -> RUNNING
+[00:10:34] [INFO] App started: App1 (pid 24)
+[00:10:34] [INFO] PID 25 (App2): NEW -> RUNNING
+[00:10:34] [INFO] App started: App2 (pid 25)
+[00:10:34] [INFO] PID 26 (App3): NEW -> RUNNING
+[00:10:34] [INFO] App started: App3 (pid 26)
+[00:10:34] [INFO] PID 27 (App4): NEW -> RUNNING
+[00:10:34] [INFO] App started: App4 (pid 27)
+[00:10:34] [INFO] PID 28 (App5): NEW -> RUNNING
+[00:10:34] [INFO] App started: App5 (pid 28)
+[00:10:34] [INFO] PID 29 (App6): NEW -> RUNNING
+[00:10:34] [INFO] App started: App6 (pid 29)
+[00:10:34] [INFO] PID 30 (App7): NEW -> RUNNING
+[00:10:34] [INFO] App started: App7 (pid 30)
+[00:10:34] [INFO] PID 31 (App8): NEW -> RUNNING
+[00:10:34] [INFO] App started: App8 (pid 31)
+[00:10:34] [INFO] PID 32 (App9): NEW -> RUNNING
+[00:10:34] [INFO] App started: App9 (pid 32)
+[00:10:34] [INFO] PID 33 (App10): NEW -> RUNNING
+[00:10:34] [INFO] App started: App10 (pid 33)
+[00:10:34] [INFO] PID 34 (App11): NEW -> RUNNING
+[00:10:34] [INFO] App started: App11 (pid 34)
+[00:10:34] [INFO] PID 35 (App12): NEW -> RUNNING
+[00:10:34] [INFO] App started: App12 (pid 35)
+[00:10:34] [INFO] PID 36 (App13): NEW -> RUNNING
+[00:10:34] [INFO] App started: App13 (pid 36)
+[00:10:34] [INFO] PID 37 (App14): NEW -> RUNNING
+[00:10:34] [INFO] App started: App14 (pid 37)
+[00:10:34] [INFO] PID 38 (App15): NEW -> RUNNING
+[00:10:34] [INFO] App started: App15 (pid 38)
+[00:10:34] [INFO] PID 39 (App16): NEW -> RUNNING
+[00:10:34] [INFO] App started: App16 (pid 39)
+[00:10:34] [INFO] PID 40 (App17): NEW -> RUNNING
+[00:10:34] [INFO] App started: App17 (pid 40)
+[00:10:34] [INFO] PID 41 (App18): NEW -> RUNNING
+[00:10:34] [INFO] App started: App18 (pid 41)
+[00:10:34] [INFO] PID 42 (App19): NEW -> RUNNING
+[00:10:34] [INFO] App started: App19 (pid 42)
+[00:10:34] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:10:34] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:10:34] [BOOT] Kernel initialized
+[00:10:34] [WARN] Refused to terminate system process kernel
+[00:12:50] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:12:50] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:12:50] [BOOT] Kernel initialized
+[00:12:50] [BOOT] System boot started
+[00:12:50] [BOOT] Initializing kernel...
+[00:12:51] [BOOT] Mounting virtual file system...
+[00:12:51] [BOOT] Loading CPU scheduler...
+[00:12:52] [BOOT] Allocating memory manager...
+[00:12:52] [BOOT] Starting system services...
+[00:12:53] [BOOT] Loading desktop environment...
+[00:12:53] [BOOT] Welcome to MiniOS!
+[00:13:40] [INFO] User 'udita' authenticated
+[00:13:40] [INFO] Desktop ready
+[00:14:04] [INFO] CPU Scheduler opened
+[00:14:04] [INFO] PID 3 (Scheduler): NEW -> RUNNING
+[00:14:04] [INFO] App started: Scheduler (pid 3)
+[00:14:18] [INFO] Scheduler ran FCFS on 6 processes
+[00:14:26] [INFO] Scheduler ran SJF on 6 processes
+[00:14:31] [INFO] Scheduler ran Priority on 6 processes
+[00:14:36] [INFO] Scheduler ran Round Robin on 6 processes
+[00:14:42] [INFO] Scheduler ran Multilevel Queue on 6 processes
+[00:14:58] [INFO] PID 1 (kernel): NEW -> RUNNING
+[00:14:58] [INFO] PID 2 (desktop): NEW -> RUNNING
+[00:14:58] [BOOT] Kernel initialized
+[00:14:58] [BOOT] System boot started
+[00:14:58] [BOOT] Initializing kernel...
+[00:14:59] [BOOT] Mounting virtual file system...
+[00:14:59] [BOOT] Loading CPU scheduler...
+[00:15:00] [BOOT] Allocating memory manager...
+[00:15:00] [BOOT] Starting system services...
+[00:15:01] [BOOT] Loading desktop environment...
+[00:15:01] [BOOT] Welcome to MiniOS!
+[00:15:07] [INFO] User 'udita' authenticated
+[00:15:07] [INFO] Desktop ready
+[00:15:48] [INFO] Memory Manager opened
+[00:15:48] [INFO] PID 3 (Memory): NEW -> RUNNING
+[00:15:48] [INFO] App started: Memory (pid 3)
+[00:15:57] [INFO] Memory allocation ran First Fit on 4 processes
+[00:16:03] [INFO] Memory allocation ran First Fit on 3 processes
+[00:16:04] [INFO] Memory allocation ran First Fit on 3 processes
+[00:16:08] [INFO] Memory allocation ran Best Fit on 3 processes
+[00:16:13] [INFO] Memory allocation ran Worst Fit on 3 processes
+[00:16:41] [INFO] Paging translated address 250 (hit)
+[00:17:07] [INFO] Deadlock opened
+[00:17:07] [INFO] PID 4 (Deadlock): NEW -> RUNNING
+[00:17:07] [INFO] App started: Deadlock (pid 4)
+[00:17:16] [INFO] Deadlock check: SAFE (P1 -> P3 -> P4 -> P0 -> P2)
+[00:17:46] [INFO] Deadlock check: SAFE (P1 -> P3 -> P4 -> P0 -> P2)
+[00:18:00] [INFO] IPC Simulator opened
+[00:18:00] [INFO] PID 5 (IPC): NEW -> RUNNING
+[00:18:00] [INFO] App started: IPC (pid 5)
+[00:18:09] [INFO] IPC SharedMemory write slot 0 = 12
+[00:18:19] [INFO] IPC SharedMemory read slot 2 -> (empty)
+[00:18:24] [INFO] IPC SharedMemory read slot 1 -> 42
+[00:18:30] [INFO] IPC SharedMemory write slot 0 = 44
+[00:18:39] [INFO] IPC SharedMemory write slot 5 = 44
+[00:18:44] [INFO] IPC SharedMemory read slot 5 -> 44
+[00:18:52] [INFO] Files opened
+[00:18:52] [INFO] PID 6 (Files): NEW -> RUNNING
+[00:18:52] [INFO] App started: Files (pid 6)
+[00:19:27] [INFO] Theme Manager opened
+[00:19:27] [INFO] PID 7 (Themes): NEW -> RUNNING
+[00:19:27] [INFO] App started: Themes (pid 7)
+[00:19:30] [INFO] Theme changed to Light
+[00:19:31] [INFO] Theme changed to Matrix
+[00:19:33] [INFO] Theme changed to Dracula
+[00:19:36] [INFO] Theme changed to Dracula
+[00:19:42] [INFO] Theme changed to Matrix
+[00:19:47] [INFO] Theme changed to Light
+[00:19:50] [INFO] Theme changed to Light
+[00:19:56] [INFO] Theme changed to Midnight
+[00:19:58] [INFO] Theme changed to Midnight
+[00:20:01] [INFO] Calculator opened
+[00:20:01] [INFO] PID 8 (Calculator): NEW -> RUNNING
+[00:20:01] [INFO] App started: Calculator (pid 8)
+[00:20:14] [INFO] Notepad opened
+[00:20:14] [INFO] PID 9 (Notepad): NEW -> RUNNING
+[00:20:14] [INFO] App started: Notepad (pid 9)
+[00:20:25] [INFO] Clock opened
+[00:20:25] [INFO] PID 10 (Clock): NEW -> RUNNING
+[00:20:25] [INFO] App started: Clock (pid 10)
+[00:20:35] [INFO] User 'udita' logged out
+[08:08:17] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:17] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:17] [BOOT] Kernel initialized
+[08:08:17] [INFO] User 'udita' authenticated
+[08:08:17] [INFO] PID 3 (Scheduler): NEW -> RUNNING
+[08:08:17] [INFO] App started: Scheduler (pid 3)
+[08:08:17] [INFO] PID 4 (P1): NEW -> READY
+[08:08:17] [INFO] Process created: P1 (pid 4)
+[08:08:17] [BOOT] System boot started
+[08:08:18] [INFO] Desktop ready
+[08:08:39] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:39] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:39] [BOOT] Kernel initialized
+[08:08:39] [INFO] User 'udita' authenticated
+[08:08:39] [INFO] Desktop ready
+[08:08:39] [INFO] Task Manager opened
+[08:08:39] [INFO] PID 3 (Task Mgr): NEW -> RUNNING
+[08:08:39] [INFO] App started: Task Mgr (pid 3)
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 3 (Notepad): NEW -> RUNNING
+[08:08:46] [INFO] App started: Notepad (pid 3)
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 3 (P1): NEW -> READY
+[08:08:46] [INFO] Process created: P1 (pid 3)
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 3 (P1): NEW -> READY
+[08:08:46] [INFO] Process created: P1 (pid 3)
+[08:08:46] [INFO] PID 3 (P1): READY -> RUNNING
+[08:08:46] [INFO] PID 3 (P1): RUNNING -> WAITING
+[08:08:46] [INFO] PID 3 (P1): WAITING -> READY
+[08:08:46] [INFO] PID 3 (P1): READY -> RUNNING
+[08:08:46] [INFO] PID 3 (P1): RUNNING -> TERMINATED
+[08:08:46] [INFO] Process terminated (pid 3); PCB removed
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 3 (Big): NEW -> READY
+[08:08:46] [INFO] Process created: Big (pid 3)
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [INFO] PID 3 (P0): NEW -> READY
+[08:08:46] [INFO] Process created: P0 (pid 3)
+[08:08:46] [INFO] PID 4 (P1): NEW -> READY
+[08:08:46] [INFO] Process created: P1 (pid 4)
+[08:08:46] [INFO] PID 5 (P2): NEW -> READY
+[08:08:46] [INFO] Process created: P2 (pid 5)
+[08:08:46] [INFO] PID 6 (P3): NEW -> READY
+[08:08:46] [INFO] Process created: P3 (pid 6)
+[08:08:46] [INFO] PID 7 (P4): NEW -> READY
+[08:08:46] [INFO] Process created: P4 (pid 7)
+[08:08:46] [INFO] PID 8 (P5): NEW -> READY
+[08:08:46] [INFO] Process created: P5 (pid 8)
+[08:08:46] [INFO] PID 9 (P6): NEW -> READY
+[08:08:46] [INFO] Process created: P6 (pid 9)
+[08:08:46] [INFO] PID 10 (P7): NEW -> READY
+[08:08:46] [INFO] Process created: P7 (pid 10)
+[08:08:46] [INFO] PID 11 (P8): NEW -> READY
+[08:08:46] [INFO] Process created: P8 (pid 11)
+[08:08:46] [INFO] PID 12 (P9): NEW -> READY
+[08:08:46] [INFO] Process created: P9 (pid 12)
+[08:08:46] [INFO] PID 13 (P10): NEW -> READY
+[08:08:46] [INFO] Process created: P10 (pid 13)
+[08:08:46] [INFO] PID 14 (P11): NEW -> READY
+[08:08:46] [INFO] Process created: P11 (pid 14)
+[08:08:46] [INFO] PID 15 (P12): NEW -> READY
+[08:08:46] [INFO] Process created: P12 (pid 15)
+[08:08:46] [INFO] PID 16 (P13): NEW -> READY
+[08:08:46] [INFO] Process created: P13 (pid 16)
+[08:08:46] [INFO] PID 17 (P14): NEW -> READY
+[08:08:46] [INFO] Process created: P14 (pid 17)
+[08:08:46] [INFO] PID 18 (P15): NEW -> READY
+[08:08:46] [INFO] Process created: P15 (pid 18)
+[08:08:46] [INFO] PID 19 (P16): NEW -> READY
+[08:08:46] [INFO] Process created: P16 (pid 19)
+[08:08:46] [INFO] PID 20 (P17): NEW -> READY
+[08:08:46] [INFO] Process created: P17 (pid 20)
+[08:08:46] [INFO] PID 21 (P18): NEW -> READY
+[08:08:46] [INFO] Process created: P18 (pid 21)
+[08:08:46] [INFO] PID 22 (P19): NEW -> READY
+[08:08:46] [INFO] Process created: P19 (pid 22)
+[08:08:46] [INFO] PID 23 (App0): NEW -> RUNNING
+[08:08:46] [INFO] App started: App0 (pid 23)
+[08:08:46] [INFO] PID 24 (App1): NEW -> RUNNING
+[08:08:46] [INFO] App started: App1 (pid 24)
+[08:08:46] [INFO] PID 25 (App2): NEW -> RUNNING
+[08:08:46] [INFO] App started: App2 (pid 25)
+[08:08:46] [INFO] PID 26 (App3): NEW -> RUNNING
+[08:08:46] [INFO] App started: App3 (pid 26)
+[08:08:46] [INFO] PID 27 (App4): NEW -> RUNNING
+[08:08:46] [INFO] App started: App4 (pid 27)
+[08:08:46] [INFO] PID 28 (App5): NEW -> RUNNING
+[08:08:46] [INFO] App started: App5 (pid 28)
+[08:08:46] [INFO] PID 29 (App6): NEW -> RUNNING
+[08:08:46] [INFO] App started: App6 (pid 29)
+[08:08:46] [INFO] PID 30 (App7): NEW -> RUNNING
+[08:08:46] [INFO] App started: App7 (pid 30)
+[08:08:46] [INFO] PID 31 (App8): NEW -> RUNNING
+[08:08:46] [INFO] App started: App8 (pid 31)
+[08:08:46] [INFO] PID 32 (App9): NEW -> RUNNING
+[08:08:46] [INFO] App started: App9 (pid 32)
+[08:08:46] [INFO] PID 33 (App10): NEW -> RUNNING
+[08:08:46] [INFO] App started: App10 (pid 33)
+[08:08:46] [INFO] PID 34 (App11): NEW -> RUNNING
+[08:08:46] [INFO] App started: App11 (pid 34)
+[08:08:46] [INFO] PID 35 (App12): NEW -> RUNNING
+[08:08:46] [INFO] App started: App12 (pid 35)
+[08:08:46] [INFO] PID 36 (App13): NEW -> RUNNING
+[08:08:46] [INFO] App started: App13 (pid 36)
+[08:08:46] [INFO] PID 37 (App14): NEW -> RUNNING
+[08:08:46] [INFO] App started: App14 (pid 37)
+[08:08:46] [INFO] PID 38 (App15): NEW -> RUNNING
+[08:08:46] [INFO] App started: App15 (pid 38)
+[08:08:46] [INFO] PID 39 (App16): NEW -> RUNNING
+[08:08:46] [INFO] App started: App16 (pid 39)
+[08:08:46] [INFO] PID 40 (App17): NEW -> RUNNING
+[08:08:46] [INFO] App started: App17 (pid 40)
+[08:08:46] [INFO] PID 41 (App18): NEW -> RUNNING
+[08:08:46] [INFO] App started: App18 (pid 41)
+[08:08:46] [INFO] PID 42 (App19): NEW -> RUNNING
+[08:08:46] [INFO] App started: App19 (pid 42)
+[08:08:46] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:08:46] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:08:46] [BOOT] Kernel initialized
+[08:08:46] [WARN] Refused to terminate system process kernel
+[08:10:08] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:10:08] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:10:08] [BOOT] Kernel initialized
+[08:10:09] [BOOT] System boot started
+[08:10:09] [BOOT] Initializing kernel...
+[08:10:10] [BOOT] Loading memory manager...
+[08:10:10] [BOOT] Starting CPU scheduler...
+[08:10:11] [BOOT] Mounting virtual file system...
+[08:10:11] [BOOT] Loading device drivers...
+[08:10:12] [BOOT] Starting system services...
+[08:10:12] [BOOT] Loading desktop environment...
+[08:10:12] [BOOT] Ready.
+[08:10:23] [INFO] User 'udita' authenticated
+[08:10:23] [INFO] Desktop ready
+[08:10:32] [INFO] Memory Manager opened
+[08:10:32] [INFO] PID 3 (Memory): NEW -> RUNNING
+[08:10:32] [INFO] App started: Memory (pid 3)
+[08:10:33] [INFO] Disk Scheduler opened
+[08:10:33] [INFO] PID 4 (Disk Sched): NEW -> RUNNING
+[08:10:33] [INFO] App started: Disk Sched (pid 4)
+[08:10:34] [INFO] System Monitor opened
+[08:10:34] [INFO] PID 5 (Monitor): NEW -> RUNNING
+[08:10:34] [INFO] App started: Monitor (pid 5)
+[08:10:55] [INFO] Kernel Log opened
+[08:10:55] [INFO] PID 6 (Kernel Log): NEW -> RUNNING
+[08:10:55] [INFO] App started: Kernel Log (pid 6)
+[08:10:56] [INFO] Theme Manager opened
+[08:10:56] [INFO] PID 7 (Themes): NEW -> RUNNING
+[08:10:56] [INFO] App started: Themes (pid 7)
+[08:10:59] [INFO] Files opened
+[08:10:59] [INFO] PID 8 (Files): NEW -> RUNNING
+[08:10:59] [INFO] App started: Files (pid 8)
+[08:11:01] [INFO] Shell opened
+[08:11:01] [INFO] PID 9 (Shell): NEW -> RUNNING
+[08:11:01] [INFO] App started: Shell (pid 9)
+[08:11:02] [INFO] System Monitor opened
+[08:11:02] [INFO] PID 10 (Monitor): NEW -> RUNNING
+[08:11:02] [INFO] App started: Monitor (pid 10)
+[08:11:04] [INFO] CPU Scheduler opened
+[08:11:04] [INFO] PID 11 (Scheduler): NEW -> RUNNING
+[08:11:04] [INFO] App started: Scheduler (pid 11)
+[08:11:31] [INFO] CPU Scheduler opened
+[08:11:31] [INFO] PID 12 (Scheduler): NEW -> RUNNING
+[08:11:31] [INFO] App started: Scheduler (pid 12)
+[08:11:50] [INFO] Deadlock opened
+[08:11:50] [INFO] PID 13 (Deadlock): NEW -> RUNNING
+[08:11:50] [INFO] App started: Deadlock (pid 13)
+[08:12:19] [BOOT] System shutdown
+[08:41:17] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:41:17] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:41:17] [BOOT] Kernel initialized
+[08:41:17] [BOOT] System boot started
+[08:41:18] [BOOT] Initializing kernel...
+[08:41:18] [BOOT] Loading memory manager...
+[08:41:19] [BOOT] Starting CPU scheduler...
+[08:41:19] [BOOT] Mounting virtual file system...
+[08:41:20] [BOOT] Loading device drivers...
+[08:41:20] [BOOT] Starting system services...
+[08:41:20] [BOOT] Loading desktop environment...
+[08:41:21] [BOOT] Ready.
+[08:41:28] [INFO] User 'udita' authenticated
+[08:41:28] [INFO] Desktop ready
+[08:41:37] [INFO] Calculator opened
+[08:41:37] [INFO] PID 3 (Calculator): NEW -> RUNNING
+[08:41:37] [INFO] App started: Calculator (pid 3)
+[08:41:41] [INFO] Deadlock opened
+[08:41:41] [INFO] PID 4 (Deadlock): NEW -> RUNNING
+[08:41:41] [INFO] App started: Deadlock (pid 4)
+[08:41:53] [INFO] Deadlock opened
+[08:41:53] [INFO] PID 5 (Deadlock): NEW -> RUNNING
+[08:41:53] [INFO] App started: Deadlock (pid 5)
+[08:44:48] [INFO] PID 1 (kernel): NEW -> RUNNING
+[08:44:48] [INFO] PID 2 (desktop): NEW -> RUNNING
+[08:44:48] [BOOT] Kernel initialized
+[08:44:49] [BOOT] System boot started
+[08:44:49] [BOOT] Initializing kernel...
+[08:44:50] [BOOT] Loading memory manager...
+[08:44:50] [BOOT] Starting CPU scheduler...
+[08:44:50] [BOOT] Mounting virtual file system...
+[08:44:51] [BOOT] Loading device drivers...
+[08:44:51] [BOOT] Starting system services...
+[08:44:52] [BOOT] Loading desktop environment...
+[08:44:52] [BOOT] Ready.
+[08:45:00] [INFO] User 'udita' authenticated
+[08:45:00] [INFO] Desktop ready
+[08:45:06] [BOOT] System shutdown
+[10:48:36] [INFO] PID 1 (kernel): NEW -> RUNNING
+[10:48:36] [INFO] PID 2 (desktop): NEW -> RUNNING
+[10:48:36] [BOOT] Kernel initialized
+[10:48:37] [BOOT] System boot started
+[10:48:37] [BOOT] Initializing kernel...
+[10:48:37] [BOOT] Loading memory manager...
+[10:48:38] [BOOT] Starting CPU scheduler...
+[10:48:38] [BOOT] Mounting virtual file system...
+[10:48:39] [BOOT] Loading device drivers...
+[10:48:39] [BOOT] Starting system services...
+[10:48:40] [BOOT] Loading desktop environment...
+[10:48:40] [BOOT] Ready.
+[10:48:47] [INFO] User 'udita' authenticated
+[10:48:47] [INFO] Desktop ready
+[10:50:00] [INFO] Deadlock opened
+[10:50:00] [INFO] PID 3 (Deadlock): NEW -> RUNNING
+[10:50:00] [INFO] App started: Deadlock (pid 3)
+[10:50:04] [INFO] Deadlock check: SAFE (P1 -> P3 -> P4 -> P0 -> P2)
+[10:50:44] [INFO] User 'udita' logged out
+[10:51:10] [INFO] User 'user' authenticated
+[10:51:10] [INFO] Desktop ready
+[10:51:22] [BOOT] System shutdown
+[12:34:00] [INFO] PID 1 (kernel): NEW -> RUNNING
+[12:34:00] [INFO] PID 2 (desktop): NEW -> RUNNING
+[12:34:00] [BOOT] Kernel initialized
+[12:34:00] [BOOT] System boot started
+[12:34:01] [BOOT] Initializing kernel...
+[12:34:01] [BOOT] Loading memory manager...
+[12:34:02] [BOOT] Starting CPU scheduler...
+[12:34:02] [BOOT] Mounting virtual file system...
+[12:34:03] [BOOT] Loading device drivers...
+[12:34:03] [BOOT] Starting system services...
+[12:34:03] [BOOT] Loading desktop environment...
+[12:34:04] [BOOT] Ready.
+[12:34:23] [INFO] User 'udita' authenticated
+[12:34:23] [INFO] Desktop ready
+[12:36:30] [INFO] User 'udita' logged out
+[12:37:41] [INFO] User 'udita' authenticated
+[12:37:41] [INFO] Desktop ready
+[12:37:51] [INFO] CPU Scheduler opened
+[12:37:51] [INFO] PID 3 (Scheduler): NEW -> RUNNING
+[12:37:51] [INFO] App started: Scheduler (pid 3)
+[12:38:02] [INFO] Scheduler ran SJF on 4 processes
+[12:38:15] [INFO] Deadlock opened
+[12:38:15] [INFO] PID 4 (Deadlock): NEW -> RUNNING
+[12:38:15] [INFO] App started: Deadlock (pid 4)
+[12:38:28] [INFO] Deadlock check: SAFE (P1 -> P3 -> P4 -> P0 -> P2)
